@@ -20,9 +20,7 @@
   ```
   streamlit run Fruits_Vegetables_Classification.py
   ```
-
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
-
+  
 ## Screenshots
 
 <img src="https://github.com/VENKADESHKUMAR-VK/Fruit_Vegetables_Recogition_VK/blob/main/screenshot_1.PNG">
