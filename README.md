@@ -25,8 +25,8 @@
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc1.PNG">
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc2.PNG">
+<img src="https://github.com/VENKADESHKUMAR-VK/Fruit_Vegetables_Recogition_VK/blob/main/screenshot_1.PNG">
+<img src="https://github.com/VENKADESHKUMAR-VK/Fruit_Vegetables_Recogition_VK/blob/main/screenshot_2.PNG">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
